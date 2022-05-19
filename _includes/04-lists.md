@@ -1,17 +1,13 @@
-- <details>
-<summary>Want to ruin the surprise?</summary>
+<details>
+<summary>How do I dropdown?</summary>
 <br>
-Well, you asked for it!
-</details>
-
-- <details open>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
-</details>
-
-- <details>
-<summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
+This is how you dropdown.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
 </details>
