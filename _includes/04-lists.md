@@ -11,3 +11,8 @@ This is how you dropdown.
 &lt;&#47;details&gt;
 </pre>
 </details>
+
+<details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details>
